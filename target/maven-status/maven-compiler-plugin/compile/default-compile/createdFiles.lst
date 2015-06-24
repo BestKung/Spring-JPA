@@ -1,0 +1,8 @@
+th\co\geniustree\springrelationshif\model\Concact.class
+th\co\geniustree\springrelationshif\config\WebConfig.class
+th\co\geniustree\springrelationshif\model\Department.class
+th\co\geniustree\springrelationshif\model\Student.class
+th\co\geniustree\springrelationshif\model\Teacher.class
+th\co\geniustree\springrelationshif\repo\DepartmentRepo.class
+th\co\geniustree\springrelationshif\App.class
+th\co\geniustree\springrelationshif\repo\StudentRepo.class
